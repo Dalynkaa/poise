@@ -23,8 +23,8 @@ indexmap = "2.2.6"
 [dependencies.serenity]
 default-features = false
 features = ["default_no_backend"]
-git = "https://github.com/mkrasnitski/serenity.git"
-branch = "label-component"
+git = "https://github.com/Dalynkaa/serenity.git"
+branch = "current"
 
 [dev-dependencies]
 # For the examples
